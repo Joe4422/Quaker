@@ -1,0 +1,18 @@
+{
+	"name": "quaker",
+	"sharedassets": "*.*",
+	
+	"depends":
+	[
+		"base"
+	],
+	
+	"gamemodes":
+	[
+		{
+			"name": "quaker",
+			"title": "Quaker",
+			"description": "Allows you to view Quake .map files in S&box."
+		}
+	]
+}
